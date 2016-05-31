@@ -10,7 +10,13 @@ app.get('/', function(req, res) {
     res.send(req.query.callback + '(' + JSON.stringify(quotes[key]) + ')');
     
   } else {
-    res.send(quotes[key]);
+    var htmlString = '<!DOCTYPE HTML><html lang="en"><head><meta charset="utf-8">' +
+      '<title>Quote For The Day</title></head><body><h1>Quote For The Day</h1><p>' +
+      quotes[key].saying +
+      '</p><p>' +
+      quotes[key].author +
+      '</p></body></html>';
+    res.send(htmlString);
   }
 
 });
