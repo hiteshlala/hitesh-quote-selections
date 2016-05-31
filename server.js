@@ -15,6 +15,6 @@ app.get('/', function(req, res) {
 
 });
 
-app.listen(port, function() {
+app.listen(process.env.PORT || port, function() {
   console.log('listening on port 3030');
 });
