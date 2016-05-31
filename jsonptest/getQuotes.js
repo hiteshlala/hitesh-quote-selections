@@ -6,7 +6,8 @@ var jsonpRequest = function(url, callback) {
 };
 
 // change this to wherver the server is being hosted
-var hostUrl = 'http://localhost:3030';
+// var hostUrl = 'http://localhost:3030';
+var hostUrl = 'http://arcane-inlet-24006.herokuapp.com';
 
 jsonpRequest(hostUrl, function (data) {
     var elem = document.getElementById('container');
