@@ -1,0 +1,27 @@
+{
+  "name": "hitesh-quote-selections",
+  "version": "1.0.0",
+  "description": "Returns a quote for the day",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshlala/hitesh-quote-selections.git"
+  },
+  "keywords": [
+    "quotes"
+  ],
+  "author": "Hitesh Lala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshlala/hitesh-quote-selections/issues"
+  },
+  "homepage": "https://github.com/hiteshlala/hitesh-quote-selections#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
