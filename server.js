@@ -4,7 +4,7 @@ var port = 3030;
 
 app.get('/', function(req, res) {
   var date = new Date();
-  var key = date.getMonth() + '-' + date.getDay();
+  var key = date.getMonth() + '-' + date.getDate();
 
   if(req.query.callback) {
     res.send(req.query.callback + '(' + JSON.stringify(quotes[key]) + ')');

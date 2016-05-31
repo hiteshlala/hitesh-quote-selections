@@ -1,5 +1,5 @@
 module.exports = {
-  "4-1": { "saying": "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy. ", "author": "Robert Tew" },
+  "4-10": { "saying": "Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy. ", "author": "Robert Tew" },
   "4-11": { "saying": "Start with a simple exercise: always remember, whenever there is a choice, choose the unknown, the risky, the dangerous, the insecure, and you will not be at a loss.", "author": "Osho Rajneesh" },
   "4-12": { "saying": "There is only love, love, nothing but love.", "author": "Swami Muktananda" },
   "4-13": { "saying": "We are not where we live but where we love!", "author": "Dada J.P. Vaswani" },
