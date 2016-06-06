@@ -161,5 +161,6 @@ module.exports = {
   "9-16": { "saying": "Change your thoughts and you change your world.", "author": "Norman Vincent Peale" },
   "9-17": { "saying": "Do not take life too seriously. You will never get out of it alive.", "author": "Elbert Hubbard" },
   "9-18": { "saying": "I love deadlines.  I like the wooshing sound they make as they fly by.", "author": "Douglas Adams" },
-  "9-19": { "saying": "Positive anything is better than negative nothing.", "author": "Elbert Hubbard" }
+  "9-19": { "saying": "Positive anything is better than negative nothing.", "author": "Elbert Hubbard" },
+  "9-20": { "saying": "Those who are not aware they are walking in darkness will never seek the light.", "author": "Bruce Lee"}
 };
