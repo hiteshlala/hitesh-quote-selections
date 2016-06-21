@@ -40,7 +40,7 @@ module.exports = {
   "5-17": { "saying": "Worry is enemy of love.  You cannot be in love and be worried at the same time.", "author": "Sri Sri Ravi Shankar" },
   "5-18": { "saying": "Words cannot capture existence, but silence can.", "author": "Sri Sri Ravishankar" },
   "5-19": { "saying": "Dynamic enthusiasm and infinite patience is the shortest way.", "author": "Sri Sri Ravishankar" },
-  "5-20": { "saying": "Learn to sit in a natural manner, Learn to be steady, clam, detached, As you learn to sit still, as you cease to react, your mind will also become steady.", "author": "Swami Muktananada" },
+  "5-20": { "saying": "Learn to sit in a natural manner, Learn to be steady, calm, detached, As you learn to sit still, as you cease to react, your mind will also become steady.", "author": "Swami Muktananada" },
   "5-21": { "saying": "A pure, one-pointed mind, a simple and comfortable posture, repetition of the Guru's name - these are the marks of a seeker.", "author": "Swami Muktananda" },
   "5-22": { "saying": "The music of the heart sweetens your being and strengthens it at the same time.  Spellbound by the whisper of a memory that you have heard this music before, you set out in search of the cave of the heart where the unstruck sound resonates.  Seekers of all generations have walked the path before you.  Those who hear the sound once again and lead their lives in harmony with it are called saints and great beings.", "author": "Swami Chidvilasananda" },
   "5-23": { "saying": "Love is not happening; love is being.  Love is not an act; it is existence. Love is not emotion; it's your very nature.", "author": "Sri Sri Ravi Shankar" },
