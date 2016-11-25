@@ -1,4 +1,4 @@
-{
+module.exports = {
   "7-1": {
     "saying": "Only a silence that can face problems and remain silent is something to be longed for, to be desired.",
     "author": "Osho Rajneesh"
