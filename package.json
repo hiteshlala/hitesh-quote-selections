@@ -1,6 +1,6 @@
 {
   "name": "hitesh-quote-selections",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a quote for the day",
   "main": "server.js",
   "scripts": {
